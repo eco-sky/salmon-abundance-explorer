@@ -1,4 +1,6 @@
-# Pacific Salmon Abundance Explorer
+<img width="628" height="311" alt="Screenshot 2026-11-01 175933" src="https://github.com/user-attachments/assets/c634c102-a0ab-4bec-afeb-7b9879b74093" />
+
+# Pacific Salmon Abundance Explorer App
 
 An interactive R Shiny dashboard for exploring Pacific salmon abundance data through temporal trend analysis, management-area comparisons, statistical summaries, and data quality assessment.
 
